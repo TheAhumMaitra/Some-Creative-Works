@@ -4,7 +4,7 @@ Welcome to the Creative Works Repository! This repository contains a collection 
 
 ## Page URL
 You can view the repository at the following URL:
-[Creative Works Repository](https://theahummaitra.github.io/Some-Creative-Works/)
+[Creative Works Repository](https://theahummaitra.github.io/Some-Creative-Works/Today's%20work/)
 
 ## Usage
 This repository is free to use for personal purposes only. Please do not use it for commercial purposes without permission.

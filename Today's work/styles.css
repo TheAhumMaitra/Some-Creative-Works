@@ -35,7 +35,7 @@ nav button{
     color: white;
     font-family: monospace;
     font-weight: bold;
-    border: 1px solid none;
+    border: 1px solid transparent;
     padding: 2px;
     outline: none;
     cursor: pointer;
