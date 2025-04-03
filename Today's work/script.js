@@ -1,6 +1,3 @@
-function hover() {
-    var a = document.getElementsByTagName('a');
-    if (a == hover) {
-        document.;
-    }
+function home(){
+//    Add your own functions here 
 }
